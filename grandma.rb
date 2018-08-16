@@ -2,7 +2,7 @@
 
 
 def speak_to_grandma(speak)
-  if speak == 'I Love You Grandma!'
+  if speak == "I Love You Grandma!"
     "I LOVE YOU TOO PUMPKIN!"
     elsif
     speak == speak.upcase
